@@ -1,5 +1,5 @@
 package bar
 
 func HelloWorld() string {
-	return "hello bar"
+	return "hello bar docker update"
 }

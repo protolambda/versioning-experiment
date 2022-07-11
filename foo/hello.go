@@ -1,5 +1,5 @@
 package foo
 
 func HelloWorld() string {
-	return "hello foo"
+	return "hello foo docker update"
 }
