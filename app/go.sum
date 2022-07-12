@@ -1,4 +1,2 @@
-github.com/protolambda/versioning-experiment/bar v0.0.0-20220711184348-b1feada2fe33 h1:R9dDZCH9xqiV6zz05NJucNbVl9Q+XyqEez3FdVUgYXI=
-github.com/protolambda/versioning-experiment/bar v0.0.0-20220711184348-b1feada2fe33/go.mod h1:QkYw2E4vtHkTsm83N7LbPAbbxdVCvt7EigtEVsw2X7g=
-github.com/protolambda/versioning-experiment/bar v0.0.0-20220711235644-d90fe3ad1780 h1:dl7luGXVD+gbp/0tTXNThj7eOJmZ1vVKn+HZM0Y3iig=
-github.com/protolambda/versioning-experiment/bar v0.0.0-20220711235644-d90fe3ad1780/go.mod h1:QkYw2E4vtHkTsm83N7LbPAbbxdVCvt7EigtEVsw2X7g=
+github.com/protolambda/versioning-experiment/bar v0.1.0 h1:YFxvARJPw8HQYmN8sHgwTRBYfaxEkQ6FyyDxWGnSH7Y=
+github.com/protolambda/versioning-experiment/bar v0.1.0/go.mod h1:QkYw2E4vtHkTsm83N7LbPAbbxdVCvt7EigtEVsw2X7g=
