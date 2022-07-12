@@ -1,5 +1,5 @@
 package bar
 
 func HelloWorld() string {
-	return "hello bar post-v0.1.0 change, changed on main branch"
+	return "hello bar non-canon change, merged with main branch change"
 }
